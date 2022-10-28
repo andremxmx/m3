@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (  )",LANGUAGE="  ",DEFAULT=YES,AUTOSELECT=YES,URI="#EXTINF:-1,TVP
+https://router.cdn.rcs.net.ar/mnp/tvp_hls/audio_4/playlist.m3u8"
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=6300000,CODECS="avc1.420028",AUDIO="audio"
+#EXTINF:-1,TVP
+https://router.cdn.rcs.net.ar/mnp/tvp_hls/track_3_6000/playlist.m3u8

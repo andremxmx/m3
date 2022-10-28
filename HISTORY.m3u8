@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (es)",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,URI="https://router.cdn.rcs.net.ar/mnp/history_hls/audio_4/playlist.m3u8"
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=6300000,CODECS="avc1.420028",AUDIO="audio"
+https://router.cdn.rcs.net.ar/mnp/history_hls/track_3_6000/playlist.m3u8

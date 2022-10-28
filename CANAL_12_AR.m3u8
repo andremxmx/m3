@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (en)",LANGUAGE="en",DEFAULT=YES,AUTOSELECT=YES,URI="https://router.cdn.rcs.net.ar/iptelva/ch12cba_hls/audio_3/playlist.m3u8"
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=6300000,FRAME-RATE=25.00,CODECS="avc1.420028",AUDIO="audio"
+https://router.cdn.rcs.net.ar/iptelva/ch12cba_hls/track_2_6000/playlist.m3u8
