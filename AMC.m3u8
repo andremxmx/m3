@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (es)",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,URI="https://router.cdn.rcs.net.ar/mnp/amc_hls/audio_4/playlist.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio 0 (es)",LANGUAGE="es",DEFAULT=YES,AUTOSELECT=YES,URI="https://router.cdn.rcs.net.ar/mnp/amc_hls/playlist_64000_Audio_4spa.m3u8"
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:BANDWIDTH=6300000,FRAME-RATE=25.00,AUDIO="audio"
-https://router.cdn.rcs.net.ar/mnp/amc_hls/track_3_6000/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/amc_hls/playlist_6000000_Video.m3u8
